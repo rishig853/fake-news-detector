@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-#from flask import Flask
-#from flask_restful import Api, Resource
 
 url = "https://www.foxnews.com/politics/biden-lowering-mask-cough-in-his-hand"
 
